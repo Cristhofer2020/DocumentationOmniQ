@@ -5,12 +5,21 @@ module.exports = {
       label: 'OmniQ Manager',
       items: [
         'login',
-        'user',
-        'bots',
-        'campaigns',
-        'fields',
-        'monitor',
-        'templateList',
+        {
+          User: ['user', 'createUser', 'editUser'],
+        },
+        {
+          Robot: ['bots', 'createrobot', 'modulos'],
+        },
+        {
+          Campañas: ['campaigns', 'createcamp', 'editcamp'],
+        },
+        {
+          Campos: ['fields'],
+        },
+        {
+          Plantillas: ['templateList', 'templateCreate', 'templateListContact'],
+        },
 
       ],
     },

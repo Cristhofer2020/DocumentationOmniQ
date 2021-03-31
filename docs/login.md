@@ -1,25 +1,28 @@
 ---
-title: Login
+title: Acceso
 slug: /
 ---
 
 ---
 
-## Login
+<h2>Como Ingresar a nuestra Instancia</h2>
 
-### To enter the application you must access the address And proceed to register with your credentials
+<h3>Para entrar en la aplicación debes acceder a la dirección y proceder a registrarte con tus credenciales</h3>
 
-### <center>[**Website**](https://omniq.icq24.com)</center>
+<center><a href="https://omniq.icq24.com">OmniQ</a></center>
+<br/>
 
-<img src="../static/img/login.png" width="1200" height="350"/>
+<center><img src="../static/img/login.png" /></center>
 
-## After starting section we must select which area we are going to require
+<h3>Después de iniciar la sección debemos seleccionar qué área vamos a requerir
+</h3>
 
-### Here we will select whether we want to be a Manager or Agent.
+<h3> Aquí seleccionaremos si queremos ser Gerente o Agente.
+</h3>
 
-<img src="../static/img/login2.png" width="1200" height="350"/>
+<center><img src="../static/img/login2.png" /></center>
 
-## Here is the agent dashboard
+<h3>Este es el panel de control del agente</h3>
 
 ---
 
@@ -28,4 +31,5 @@ slug: /
 Our Dashboard is in the process of structuring for the moment this is what we are going to visualize
 
 :::
-<img src="../static/img/dashboard.png" width="1200" height="520"/>
+
+<center><img src="../static/img/dashboard.png" /></center>

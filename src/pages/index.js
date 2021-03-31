@@ -10,11 +10,18 @@ const features = [
   {
     title: 'Welcome to our Documentation',
     description: (
+      <><br />
+     Bienvenido a nuestra Documentación donde te mostraremos cómo funciona nuestra instancia 😀 Saludos 😀.
+      </>
+    ),
+  },
+  {
+    description: (
       <>
         <br />
-        Private Social Network:<br />
-        Today WhatsApp is considered the most popular C2C
-        messaging app in the world, surpassing Messenger with more than 2 billion users.
+         Red social privada:<br />
+        En la actualidad, WhatsApp se considera la app de mensajería C2C más popular del mundo,
+        superando a Messenger con más de 2.000 millones de usuarios..
       </>
     ),
   },
@@ -22,16 +29,16 @@ const features = [
 
     description: (
       <><br /><br />
-     Our platform is verified by WhatsApp and Facebook. An authenticated account will appear in the most used communication channel.
+     Nuestra plataforma está verificada por WhatsApp y Facebook. Una cuenta autentificada aparecerá en el canal de comunicación más utilizado.
       </>
     ),
   },
   {
 
     description: (
-      <><br /><br />
-      Unleash the power of the most reliable private
-      network to provide conventional commerce and customer service
+      <><br />
+      Libere el poder de la red privada más fiable
+      de la red privada más fiable para ofrecer un comercio y un servicio al cliente convencionales
 
       </>
     ),
@@ -39,6 +46,7 @@ const features = [
   {
     description: (
       <><br />
+      Integración con diferentes canales:<br /><br />
     WhatsApp,  Facebook Messenger,  Facebook Wall(beta),  Instagram(beta),  Twiter (beta),  App Chat,  SMS,  Website,  BOT’s,  Telegram (beta).
       </>
     ),
@@ -46,9 +54,10 @@ const features = [
   {
     description: (
       <><br />
-        Message flow architecture:<br />
-        In the OmniQ platform the different channels are configured,
-        the bot is defined with the flow of messages and the client's interation with the platform and finally they are transferred to the five9 platform to be attended by an agent.
+        Arquitectura de flujo de mensajes:<br />
+        En la plataforma OmniQ se configuran los diferentes canales,
+        se define el bot con el flujo de mensajes y la interación del cliente con la plataforma y
+        finalmente se transfieren a la plataforma five9 para ser atendidos por un agente.
 
       </>
     ),

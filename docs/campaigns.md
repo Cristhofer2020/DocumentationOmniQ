@@ -1,27 +1,9 @@
 ---
-title: Campaigns
+title: Campañas
 ---
 
 ---
 
-## Here we are going to visualize all the created campaigns
+<h2>In this part we will see our campaigns already created where it brings us a button for the creation of our campaigns also in the part of actions gives us the option to edit and delete our campaigns.</h2>
 
-<img src="../static/img/campa1.png" width="1200" height="400"/>
-
-## Create Campaigns
-
----
-
-### In this part we will see a small circle. when we click on it ,will show us a screen to create our campaigns.
-
-<img src="../static/img/createCam.png" width="1200" height="400"/>
-
-### This would be our screen for the creation of the campaigns
-
-### In the creation of our campaign we can enter with facebook where when we start with facebook does not fill in the fields we are displaying which are "Campaign name, instance, Url, Token".
-
-<img src="../static/img/createcampaigs.png" width="1000" height="450"/>
-
-### This part is to select our bot`s that we already created, we also have the option to manage our status where we can put our campaign active or inactive.
-
-![Bots](/img/select.png)
+<center><img src="../static/img/campa1.png" width="900" height="500"/></center>

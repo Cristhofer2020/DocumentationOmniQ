@@ -24,13 +24,13 @@ module.exports = {
         {
           to: "/#",
           activeBasePath: "/#",
-          label: "Home",
+          label: "Inicio",
           position: "right",
         },
         {
           to: "docs/",
           activeBasePath: "docs",
-          label: "Documentation",
+          label: "Documentacion",
           position: "right",
         },
       ],
@@ -39,23 +39,23 @@ module.exports = {
       style: "light",
       links: [
         {
-          title: "Documentation",
+          title: "Documentacion",
           items: [
             {
-              label: "Getting Started",
+              label: "Empezando",
               to: "docs/",
             },
           ],
         },
         {
-          title: "Our Community",
+          title: "Nuestra Comunidad",
           items: [
             {
-              label: "Contacts",
+              label: "Contactos",
               href: "http://icq24.com/contact-us/",
             },
             {
-              label: "Website",
+              label: "Acceso",
               href: "https://omniq.icq24.com",
             },
           ],
