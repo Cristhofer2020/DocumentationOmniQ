@@ -9,7 +9,7 @@ module.exports = {
           User: ['user', 'createUser', 'editUser'],
         },
         {
-          Robot: ['bots', 'createrobot', 'modulos'],
+          Bots: ['bots', 'createrobot',],
         },
         {
           Campañas: ['campaigns', 'createcamp', 'editcamp'],

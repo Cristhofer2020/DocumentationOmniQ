@@ -4,9 +4,9 @@ title: Fields
 
 ---
 
-<h2>Add new fields</h2>
+<h2>Añadir nuevos campos</h2>
 
-<h3>Here we can add the variables that can be used in the templates.</h3>
+<h3>Estos campos lo usaremos en nuestras plantillas para estructurar nuestros mensajes que seran enviados mediante un CSV estos campos seran los headers en los csv mas adelante le mostraremos el uso que le daremos a nuestros campos creados.</h3>
 
 <center><img src="../static/img/fields1.png" /></center>
 
