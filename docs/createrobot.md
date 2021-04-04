@@ -41,8 +41,12 @@ title: Creacion de los Bot`s
 <h3><center><img src="../static/img/case.png"/></center> -Case: Es donde vamos a mostrar una opción a nuestro cliente donde podemos poner varios mensajes y cada mensaje trae una respuesta al cliente.</h3>
 
 <h3>Por ejemplo:</h3>
-
 <center><img src="../static/img/casos.png" width="900"/></center>
+<h2>Definicion de los Campos</h2>
+
+<h3>Nombre del caso:</h3>
+<h3>Titulo del caso:</h3>
+<h3>Ramas:</h3>
 
 <h3><center><img src="../static/img/connector.png"/></center>-Conector: Este módulo está en proceso por el momento no lo vamos a utilizar.</h3>
 
@@ -53,6 +57,11 @@ title: Creacion de los Bot`s
 
 
 <center><img src="../static/img/five9.png" width="900" height="500"/></center>
+<h2>Definicion de los Campos</h2>
+<h3>Name:</h3>
+<h3>Campaign:</h3>
+<h3>Tenant:</h3>
+<h3>Atributos:</h3>
 
 <h3><center><img src="../static/img/inputico.png"/></center>- Input: Es donde vamos a guardar la información y esta información se pasará a una variable donde podremos llamarla en el módulo Five9Chat.
 </h3>
@@ -60,5 +69,8 @@ title: Creacion de los Bot`s
 <h3>Por ejemplo::</h3>
 
 <center><img src="../static/img/input.png" width="900"/></center>
+<h2>Definicion de los Campos</h2>
+
+<h3>RegExp: </h3>
 
 ---
