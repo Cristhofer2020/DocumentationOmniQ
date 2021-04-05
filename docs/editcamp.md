@@ -1,5 +1,5 @@
 ---
-title: Editar y Eliminar Campañas 
+title: Editar y Eliminar Campañas
 ---
 
 ---
@@ -14,7 +14,7 @@ title: Editar y Eliminar Campañas
 
 <center><img src="../static/img/editcam.png" width="900" height="500"/></center>
 
-<h3>Aqui podemos editar nustras informaciones y desde que le damos click a save nos guarda los cambios agregados o si no queremos agregar nada solo queriamos visuilizar las informaciones que 
+<h3>Aqui podemos editar nuestras informaciones y desde que le damos click a save nos guarda los cambios agregados o si no queremos agregar nada solo queriamos visuilizar las informaciones que 
 tenia nuestra campaña le damos click a regresar a nuestra lista de campañas</h3>
 
 ---
@@ -31,8 +31,4 @@ tenia nuestra campaña le damos click a regresar a nuestra lista de campañas</h
 
 <h3>Cuando le damos click a que si queremos eliminar nuestra campaña nos presenta que nuestra campaña se ha eliminado correctamenteen el lado derecho.</h3>
 
-
 <center><img src="../static/img/deletecomple.png" width="900" height="500"/></center>
-
-
-
