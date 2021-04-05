@@ -10,7 +10,7 @@ title: Usuarios
 
 <h3>Estos serian los diferentes roles que tenemos aqui veremos su repectiva definicion de cada uno</h3>
 
-<h3>Supervisor: </h3>
+<h3>Supervisor: Este es para el manejo administrativo de las plantillas</h3>
 <h3>Templates:</h3>
 <h3>Templates-Manager:</h3>
 <h3>Bot`s:</h3>
