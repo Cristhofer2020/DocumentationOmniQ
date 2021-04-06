@@ -19,7 +19,7 @@ module.exports = {
         },
         {
           Plantillas: ['templateList', 'templateCreate', 'templateListContact'],
-          Flujo: ['flujoHSM', 'aprove']
+          Flujo: ['flujoHSM', 'submit','aprove',  'reject', ]
         },
 
       ],

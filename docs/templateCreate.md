@@ -31,22 +31,10 @@ title: Creacion de Plantillas
 
 <center><img src="../static/img/previewmess2.png" width="1000"/></center>
 
----
+<h3>Ya que vimos la definicion de los campos ahora veremos la parte de la creacion de una plantilla</h3>
 
-<h3>Ahora veremos como seria el uso de estos campos en las plantillas</h3>
+<center><img src="../static/img/templateSave.png" width="1000"/></center>
 
-<h3>En la creacion de la plantilla tenemos la opcion de ver los campos creado y tambien le brindamos la opcion de crearlos dentro del mismo aqui un ejemplo: <br/><br/><img src="../static/img/fields2.png"/></h3>
-
-<h3>Si le damos click al boton de crear nos abre la siguiente pantalla</h3>
-
-<center><img src="../static/img/fields3.png" /></center>
-
-<h3>Esta seria nuestra pantalla para la creacion de campos dentro de la creacion de las plantillas como podemos visualizar vamos agregar un campo llamado TEST4 desde que le damos al boton <center><img src="../static/img/fields4.png"/></center></h3>
-
-<h3>ahora nos mostrara el campor que hemos creado llamado "TEST4"</h3>
-
-<center><img src="../static/img/fields5.png" /></center>
-
-<!-- <h3>Este seria el uso a los campos en las plantillas si quiere ver el tema de envio de mensaje <a href="/docs/templateListContact">Click Aqui!</a></h3> -->
+<h3>ahora le daremos click a "SAVE" donde vamos a guardar nuestra plantilla luego pasamos a ver el flujo de las plantillas<br/>  <center><img src="../static/img/save.png"/></center></h3>
 
 ---
