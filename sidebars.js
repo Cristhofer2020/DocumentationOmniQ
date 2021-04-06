@@ -18,7 +18,8 @@ module.exports = {
           Campos: ['fields'],
         },
         {
-          Plantillas: ['templateList', 'templateCreate', 'flujoHSM', 'templateListContact'],
+          Plantillas: ['templateList', 'templateCreate', 'templateListContact'],
+          Flujo: ['flujoHSM', 'aprove']
         },
 
       ],
