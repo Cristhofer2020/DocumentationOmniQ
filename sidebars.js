@@ -9,7 +9,7 @@ module.exports = {
           User: ['user', 'createUser', 'editUser'],
         },
         {
-          Bots: ['bots', 'createrobot',],
+          Bots: ['bots', 'createrobot', 'nodos'],
         },
         {
           Campañas: ['campaigns', 'createcamp', 'editcamp'],
@@ -18,7 +18,7 @@ module.exports = {
           Campos: ['fields'],
         },
         {
-          Plantillas: ['templateList', 'templateCreate', 'templateListContact'],
+          Plantillas: ['templateList', 'templateCreate', 'flujoHSM' ,'templateListContact'],
         },
 
       ],

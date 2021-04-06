@@ -61,3 +61,5 @@ Nuestra opción de añadir el CSV está desactivada porque para activarla debemo
 <h3>9.	En la parte centrar abajo mostrara un mensaje notificando el estado del envío.
 ya sea que fue enviado exitosamente la lista de los contactos, o si se produjo cualquier error al procesar el envío de los mensajes.
 </h3>
+
+---

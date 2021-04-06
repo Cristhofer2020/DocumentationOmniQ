@@ -24,7 +24,24 @@ title: Creacion de Usuarios
 <h3>Password: Este campo es importante igual que username ya que con estos campos es que nos logearemos en nuestra instancia</h3>
 <h3>Email: se utilizara para la comunicacion al usuario mediante su correo</h3>
 
-<h3>Aqui esta la parte del manejo de los roles <a href="/docs/user">Click Aqui!</a></h3>
+---
+
+<h3>Explicacion de los Roles</h3>
+
+<h3>Tenemos la opcion de manejar nuestros usuarios manejar los diferentes roles disponibles que tenemos habilitados</h3>
+
+<h3>Estos serian los diferentes roles que tenemos aqui veremos su repectiva definicion de cada uno</h3>
+
+<h3>Supervisor: Este es para el manejo administrativo de las plantillas</h3>
+<h3>Templates:</h3>
+<h3>Templates-Manager:</h3>
+<h3>Bot`s:</h3>
+<h3>Agent:</h3>
+<h3>Admin:</h3>
+
+---
+
+<!-- <h3>Aqui esta la parte del manejo de los roles <a href="/docs/user">Click Aqui!</a></h3>
 
 ---
 
@@ -36,4 +53,4 @@ title: Creacion de Usuarios
 
 <center><img src="../static/img/userView.png" width="1000"/></center>
 
-<h3>Y listo ya tenemos nuestro usuario creado</h3>
+<h3>Y listo ya tenemos nuestro usuario creado</h3> -->
