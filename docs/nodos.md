@@ -63,26 +63,32 @@ title: Definicion de Nodos
 
 <h3><img src="../static/img/connector.png"/> - Conector: Este módulo está en proceso por el momento no lo vamos a utilizar.</h3>
 
-<h3><img src="../static/img/five9chat.png"/> - Five9Chat: </h3>
+<h3><img src="../static/img/five9chat.png"/> - Five9Chat: En este parte es donde ya vamos hacer conexion con five9 como bien vemos nos pide que agregemos nuestra campaña y nuestro tenats y la parte de atributos es la parte donde le enviaremos a five9 parametros que mas adelante veran la explicacion de cada campo</h3>
 
 <h3>Por Ejemplo:</h3>
 
 <center><img src="../static/img/five9.png" width="900" height="500"/></center>
 <h2>Definicion de los Campos</h2>
 <h3>Name: <br/>Nuestro Nombre del modulo a identificar</h3>
-<h3>Campaign: <br/>Esta seria la campaña que queremos recibir los chats recibidos</h3>
+<h3>Campaign: <br/>Aqui debemos agregar nuestra campaña que tenemos en five9</h3>
 <h3>Tenant: <br/>El Tenants es el dominio que tenemos en five9.</h3>
-<h3>Atributos: <br/>Este tema es para llamar variables que tenemos creadas en los input tambien </h3>
+<h3>Atributos: Aqui podremos llamar  variables que ya tenemos definidas en nuestro flujo, 
+podemos llamar variables que tenemos definidas en los input o en los case aqui le mostraremos un ejemplo<br/>
+</h3>
+<center><img src="../static/img/examplecase.png" width="900"/></center>
 
-<h3><img src="../static/img/inputico.png"/> - Input: .
+<h3>Para llamar las variables debemos añadir una arroba"@" al principio y la siguiente al final por ejemplo: "@case.varible@" aqui lo que hacemos es llamar nuestro nodo y la variable que este dentro de ese nodo</h3>
+
+<h3><img src="../static/img/inputico.png"/> - Input: 
 </h3>
 
 <h3>Por Ejemplo:</h3>
 
 <center><img src="../static/img/input.png" width="900"/></center>
+
 <h2>Definicion de los Campos</h2>
 
-<h3>Name:</h3>
+<h3>Name: Este sera el nombre del nodo a identificar en nuestro flujo</h3>
 <h3>RegExp: </h3>
 
 ---

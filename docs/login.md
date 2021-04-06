@@ -5,9 +5,9 @@ slug: /
 
 ---
 
-<h2>Como Ingresar a nuestra Instancia</h2>
+<h2>Aqui veremos Como Ingresar a nuestra Instancia</h2>
 
-<h3>Para entrar en la aplicación debes acceder a la dirección y proceder a registrarte con tus credenciales</h3>
+<h3>Para entrar en nuestra instancia debes acceder a la dirección y proceder a registrarte con tus credenciales</h3>
 
 <center><a href="https://omniq.icq24.com">OmniQ</a></center>
 <br/>
@@ -22,13 +22,15 @@ slug: /
 
 <center><img src="../static/img/login2.png" /></center>
 
-<h3>Este es el panel de control del agente</h3>
+<h3>En este momento estamos visualizando la parte de Manager donde tenemos todos los modulos disponibles de nuestra instancia</h3>
+
+<h3>Esta es nuestra pagina de inicio desde que entramos a la instancia</h3>
 
 ---
 
 :::info
 
-Our Dashboard is in the process of structuring for the moment this is what we are going to visualize
+¡Esté atento! - A medida que vayamos construyendo nuestra aplicación, iremos añadiendo nuevas funciones a esta sección
 
 :::
 

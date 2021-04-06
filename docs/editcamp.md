@@ -8,18 +8,21 @@ title: Editar y Eliminar Campañas
 
 <h3>Empecemos con la parte de editar nuestras campañas</h3>
 
+<h3>Ahora haremos click en boton edit para editar nuestra campaña aqui le mostramos cual seria el boton a realizar</h3>
+
 <center><img src="../static/img/editCampañas.png" width="1000"/></center>
 
-<h3>Cuando le damos click a las parte de editar nos trae la siguiente pantalla</h3>
+<h3>aqui estaria nuestra pantalla de edicion donde podemos cambiar las diferentes informaciones que tenemos a la vista</h3>
 
 <center><img src="../static/img/editcam.png" width="1000"/></center>
+<br/>
 
-<h3>Aqui podemos editar nuestras informaciones y desde que le damos click a save nos guarda los cambios agregados o si no queremos agregar nada solo queriamos visuilizar las informaciones que 
-tenia nuestra campaña le damos click a regresar a nuestra lista de campañas</h3>
+<li>SAVE: Para guardar nuestros cambios</li>
+<li>BACK TO LIST: Destacar los cambios agregados y regresaremos a nuestra lista de campañas</li>
 
 ---
 
-<h3>En esta parte veremos la de eliminar nuestras campañas</h3>
+<h3>Aqui veremos la parte  de eliminacion de  nuestras campañas</h3>
 
 <center><img src="../static/img/deletecampa.png" width="1000"/></center>
 

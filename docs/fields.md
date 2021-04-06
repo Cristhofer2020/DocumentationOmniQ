@@ -12,15 +12,11 @@ title: Vista De los Campos
 
 <h3>Vamos a definir cada campos para que entendamos el uso de cada uno de ellos</h3>
 
-<h3>Field name: Este seria Nuesto noombre del campo</h3>
+<h3><a>Field name:</a>  Este seria Nuesto noombre del campo</h3>
 
-<h3>MinLength:</h3>
+<h3><a>Type:</a> Aqui selecionamos que tipo de modelo sera nuestro campo </h3>
 
-<h3>MaxLength:</h3>
-
-<h3>Type: Aqui definimos que tipo sera nuestro campo </h3>
-
-<h3>Model: Este seria el modelo de nuestro campo al que estara relacionado</h3>
+<h3><a>Model:</a> Este seria el modelo de nuestro campo al que estara relacionado</h3>
 
 :::info
 
