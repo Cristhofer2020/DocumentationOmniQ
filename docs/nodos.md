@@ -4,6 +4,7 @@ title: Definicion de Nodos
 
 ---
 
+<!--
 <h2>Definición de los Nodos</h2>
 
 <h3>Barra de herramientas</h3>
@@ -11,6 +12,21 @@ title: Definicion de Nodos
 <h3>Ahora vamos a explicarles para que funciona esta parte de la derecha mas adelante estara la parte izquierda</h3>
 
 <center><img src="../static/img/bots4.png" width="900"/></center>
+
+<h3>vamos a definir todos los 4 botones que tenemos disponibles en nuestra barra de herramientas</h3>
+
+<h3><a>Delete:</a>si queremos Utilizar este boton debemos selecionar el nodo o la transicion que queremos eliminar</h3>
+
+<h3>Aqui un ejemplo de como hacerlo</h3>
+
+<center><img src="../static/img/deletebot.gif" width="900"/></center>
+
+<h3><a>Properties:</a>Aqui es para agregar las informaciones req</h3>
+
+
+--- -->
+
+<h2>Definicion de Nodos</h2>
 
 <center><img src="../static/img/bot22.png" width="900"/></center>
 
@@ -47,7 +63,7 @@ title: Definicion de Nodos
 
 <h3><img src="../static/img/connector.png"/> - Conector: Este módulo está en proceso por el momento no lo vamos a utilizar.</h3>
 
-<h3><img src="../static/img/five9chat.png"/> - Five9Chat: Este módulo se utilizará para la conexión con Five9 donde tenemos que pasar la campaña que queremos recibir en five9 también debemos añadir los Inquilinos que sería en este caso nuestro cliente.</h3>
+<h3><img src="../static/img/five9chat.png"/> - Five9Chat: </h3>
 
 <h3>Por Ejemplo:</h3>
 
