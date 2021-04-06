@@ -79,7 +79,7 @@ podemos llamar variables que tenemos definidas en los input o en los case aqui l
 
 <h3>Para llamar las variables debemos añadir una arroba"@" al principio y la siguiente al final por ejemplo: "@case.varible@" aqui lo que hacemos es llamar nuestro nodo y la variable que este dentro de ese nodo</h3>
 
-<h3><img src="../static/img/inputico.png"/> - Input: 
+<h3><img src="../static/img/inputico.png"/> - Input: Es donde podemos almacenar variables para la captura de informacion estas variables la podemos llamar en el nodo de Five9
 </h3>
 
 <h3>Por Ejemplo:</h3>
@@ -88,7 +88,7 @@ podemos llamar variables que tenemos definidas en los input o en los case aqui l
 
 <h2>Definicion de los Campos</h2>
 
-<h3>Name: Este sera el nombre del nodo a identificar en nuestro flujo</h3>
+<h3>Name: Aqui podemos agregar el nombre a identificar y esta seria la variable de nuestro input</h3>
 <h3>RegExp: </h3>
 
 ---

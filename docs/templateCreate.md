@@ -13,21 +13,29 @@ title: Creacion de Plantillas
 <center><img src="../static/img/createtemplate1.png" width="1000"/></center>
 
 <h2>Definicion de los campos:</h2>
-<h3>Nombre del Mensaje:</h3>
-<h3>Nombre de su espacio</h3>
-<h3>Canales:</h3>
-<h3>Categoria:</h3>
-<h3>Mensaje:</h3>
-<h3>Evidencia de Aceptacion:</h3>
-<h3>Encabezamiento:</h3>
-<h3>Pie de Pagina:</h3>
-<h3>Mensaje de Vista Previa:</h3>
+<h3>Nombre del Mensaje: Nombre a identeficar la plantilla</h3>
+<h3>Nombre de su espacio: </h3>
+<h3>Canales: Aqui vamos a seleccionar el canal que vamos a utilizar en la plantilla</h3>
+<h3>Categoria: Esta opcion para elegir que tipo o categoria seria la plantilla</h3>
+<h3>Mensaje: Este es uno de los mas importante ya que este sera el mensaje que enviaremos mediante HSM LIST</h3>
+<h3>Evidencia de Aceptacion: Aqui es para agregar una evidencia de que el cliente quiere recibir el template a enviar</h3>
+<h3>Encabezamiento: </h3>
+<h3>Pie de Pagina: </h3>
+<h3>Mensaje de Vista Previa: Aqui podremos ver una vista del mensaje ya creado</h3>
+
+<li>Para poder visualizar nuestro mensaje que ya cremos debemos hacer click aqui</li><br/><br/>
+
+<center><img src="../static/img/previewmess.png" width="1000"/></center>
+
+<h3>Luego de hacer click en este boton nos pasa lo que tenemos agregado al campo de vista previa</h3>
+
+<center><img src="../static/img/previewmess2.png" width="1000"/></center>
 
 ---
 
-<h3>Ahora veremos como seria el uso de estos campos en las plantillas y envio de mensajes</h3>
+<h3>Ahora veremos como seria el uso de estos campos en las plantillas</h3>
 
-<h3>En la creacion de la plantilla tenemos la opcion de ver los campos creador tambien le brindamos la opcion de crearlos dentro del mismo aqui un ejemplo: <br/><br/><img src="../static/img/fields2.png"/></h3>
+<h3>En la creacion de la plantilla tenemos la opcion de ver los campos creado y tambien le brindamos la opcion de crearlos dentro del mismo aqui un ejemplo: <br/><br/><img src="../static/img/fields2.png"/></h3>
 
 <h3>Si le damos click al boton de crear nos abre la siguiente pantalla</h3>
 
@@ -39,14 +47,6 @@ title: Creacion de Plantillas
 
 <center><img src="../static/img/fields5.png" /></center>
 
-<h3>Este seria el uso a los campos en las plantillas si quiere ver el tema de envio de mensaje <a href="/docs/templateListContact">Click Aqui!</a></h3>
+<!-- <h3>Este seria el uso a los campos en las plantillas si quiere ver el tema de envio de mensaje <a href="/docs/templateListContact">Click Aqui!</a></h3> -->
 
 ---
-
-
-
-
-
-
-
-
