@@ -9,10 +9,19 @@ Ahora haremos click en el icono aqui un pequeño ejemplo:</h3>
 
 <center><img src="../static/img/Useredit.png" width="1000"/></center>
 
+<h3><a>Aqui podremos editar nuestra informacion</a> <br/><br/>
+<li>Username: No es Editable</li><br/>
+<li>Password: Aqui si podemos cambiar nuestra contraseña si lo deseamos</li><br/>
+<li>Fist name: Si es editable ya que es el nombre que nos identificara en nuestra instacia</li><br/>
+<li>Last Name: es la misma utilidad que el anterior ya seria nuestro appelido que tambien es editable</li><br/>
+<li>Email: Este campo tambien es editable</li><br/>
+<li>Active: En la parte de Active podemos desactivar los usuarios o activar se usa si queremos que este usuario puede entrar a nuestra instancia</li><br/>
 
-<h3>Despues hacer click en editar esta seria nuestra pantalla de edicion, Aqui podremos cambiar nuestra contraseña, tambien nuestro Email, podemos desactivar o activar los diferentes roles o desactivar el usuario si el usuario esta deactivado no podra ingresar a nuestra instacia, por ultimo nuetro nombre de usuario no es editable</h3>
+</h3>
 
-<center><img src="../static/img/useredit2.png" width="1000"/></center>
+<center><img src="../static/img/userEdit2.png" width="1000"/></center>
 
+<li>Save: Para guardar Nuestos cambios</li>
+<li>Cancel: Destacar los cambios hechos</li>
 
-<h3>Despues de hacer nuestros cambios solo debemos hacer click en Save Changes y si solo queriamos visualizar la informacion le damos a cancel para salir</h3> 
+---

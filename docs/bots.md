@@ -4,7 +4,7 @@ title: Bot’s
 
 ---
 
-<h2>Ver todos los Bot`s</h2>
+<h2>Vista Principal de los Bot`s Creados</h2>
 
 <h3>El sistema tiene un robot integrado para programar la interacción automática de los usuarios finales, muy fácil de crear sus propios flujos y una forma muy amigable de configurarlo. en pocos minutos tendrá a sus clientes interactuando con ellos.</h3>
 
@@ -12,4 +12,3 @@ title: Bot’s
 </h3>
 
 <center><img src="../static/img/bot1.png" width="900" height="500"/></center>
-

@@ -55,7 +55,7 @@ module.exports = {
               href: "http://icq24.com/contact-us/",
             },
             {
-              label: "Acceso",
+              label: "OmniQ",
               href: "https://omniq.icq24.com",
             },
           ],

@@ -16,3 +16,22 @@
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
+
+
+h3{
+  font-weight: inherit;
+
+}
+
+h2{
+  font-weight: normal;
+
+}
+
+li{
+  font-size: 18px;
+}
+
+hr{
+  color: #7CBB00;
+}
