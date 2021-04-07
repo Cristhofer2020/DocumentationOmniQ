@@ -12,13 +12,13 @@ title: Editar y Eliminar Campañas
 
 <center><img src="../static/img/editCampañas.png" width="1000"/></center>
 
-<h3>aqui estaria nuestra pantalla de edicion donde podemos cambiar las diferentes informaciones que tenemos a la vista</h3>
+<h3>Aqui estaria nuestra pantalla de edicion donde podemos cambiar las diferentes informaciones que tenemos a la vista</h3>
 
 <center><img src="../static/img/editcam.png" width="1000"/></center>
 <br/>
 
-<li>SAVE: Para guardar nuestros cambios</li>
-<li>BACK TO LIST: Destacar los cambios agregados y regresaremos a nuestra lista de campañas</li>
+<h3><a>-SAVE:</a> Para guardar nuestros cambios</h3>
+<h3><a>-BACK TO LIST:</a> Destacar los cambios agregados y regresaremos a nuestra lista de campañas</h3>
 
 ---
 

@@ -8,7 +8,7 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Welcome to our Documentation',
+    title: 'Bienvenido a nuestra documentación',
     description: (
       <><br />
      Bienvenido a nuestra Documentación donde te mostraremos cómo funciona nuestra instancia 😀 Saludos 😀.
@@ -62,9 +62,6 @@ const features = [
       </>
     ),
   },
-
-
-
 ];
 
 function Feature({ imageUrl, title, description }) {
