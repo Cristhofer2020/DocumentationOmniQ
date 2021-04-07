@@ -6,7 +6,7 @@ title: Creacion de los Bot`s
 
 <h2>Ahora Veremos la Creacion de Nuestro Bot`s</h2>
 
-<h3>Aqui le explicaremos todas la configuraciones y funciones que tenemos para nuestro bot`s y la estruturacion de nuestro flujo</h3>
+<h3>Aqui le explicaremos todas la configuraciones y funciones que tenemos para nuestro bot`s y la estructuracion de nuestro flujo</h3>
 
 <h3>en la siguiente pantalla podemos hacer click en este botón para dar inicio a nuestra creacion de nuestro bot`s</h3>
 

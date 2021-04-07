@@ -10,7 +10,7 @@ title: Definicion de Nodos
 
 <h3><img src="../static/img/skilltransfer.png"/>  <a>-SkillTransfer:</a><br/> Este estado está en proceso de creación y no se utilizará por el momento</h3>
 
-<h3><img src="../static/img/message.png"/> <a>- Message:</a><br/> La respuesta de nuestro bot al recibir un mensaje</h3>
+<h3><img src="../static/img/message.png"/> <a>- Message:</a><br/> Aqui vamos agregar un mensaje depediendo nuestra necesidad</h3>
 <br/>
 <br/>
 
@@ -22,7 +22,7 @@ title: Definicion de Nodos
 <br/>
 <h3><a>Message:</a><br/> Es donde vamos a estructurar nuestro mensaje</h3>
 <br/>
-<h3><a>Go Next:</a><br/> Es para dar una continuacion a otro mensaje u otra accion del bot</h3>
+<h3><a>Go Next:</a><br/> Es para dar una continuacion a otro mensaje u otra accion del bot, si desativamos esta campo se detendra en esta parte del nodo por que con esto le indicamos que se detenga</h3>
 
 ---
 
@@ -37,6 +37,8 @@ title: Definicion de Nodos
 <h3><a>Nombre del caso:</a><br/>  Este Seria Nuestro Nombre a Identificar el Case</h3>
 <h3><a>Titulo del caso:</a><br/>  Este Campo seria el titulo del mensaje para darle Una introduccion o informacion</h3>
 <h3><a>Vifurcacion:</a><br/>  Es donde vamos a poder darle la opcion al cliente de tener varios opciones a eligir</h3>
+
+
 
 ---
 

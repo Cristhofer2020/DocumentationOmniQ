@@ -16,7 +16,7 @@ title: WhatsApp
 
 <center><img src="../static/img/whatsaap.png" width="1000"/></center>
 
-<h3>Si queremos agregar otro provedor  usariamos el mismo metodo que whatsaap el unico metodo que cambia para configuracion y demas es con "Facebook",</h3>
+<!-- <h3>Si queremos agregar otro provedor  usariamos el mismo metodo que whatsaap el unico metodo que cambia para configuracion y demas es con "Facebook",</h3>
 
 <h3>Estos serian los provedores que podemos usar con el metedo anteriormente explicado</h3>
 
@@ -24,4 +24,4 @@ title: WhatsApp
 <h3><li><a>Twilio</a></li></h3>
 <h3><li><a>SMS</a></li></h3>
 <h3><li><a>Intagram</a></li></h3>
-<h3><li><a>Telegram</a></li></h3>
+<h3><li><a>Telegram</a></li></h3> -->

@@ -18,9 +18,9 @@ title: Creacion de Usuarios
 
 <h3>Definicion de los Campos:</h3>
 
-<h3><a>First Name:</a><br/> Este seria el nombre que vamos asignar al usuario para visuaizar en la instacia</h3>
+<h3><a>First Name:</a><br/> Este seria el nombre que vamos asignar al usuario para visuailzar en la instacia</h3>
 <h3><a>Last Name:</a><br/> Este campo tiene la misma utilidad que el anterior solo que seria el apellido del usuario</h3>
-<h3><a>Username:</a><br/> Aqui Asinaremos como el usuario se logeara en nuestra instancia</h3>
+<h3><a>Username:</a><br/> Aqui Asignaremos como el usuario se logeara en nuestra instancia</h3>
 <h3><a>Password:</a><br/> Este campo es importante igual que username ya que con estos campos es que nos logearenos en nuestra instancia</h3>
 <h3><a>Email:</a><br/> Se utilizara para la comunicacion al usuario mediante su correo</h3>
 

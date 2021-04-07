@@ -16,7 +16,7 @@ Nuestra opción de añadir el CSV está desactivada porque para activarla debemo
 
 :::
 
-<h3>Example:</h3>
+<h3>Example</h3>
 
 <center><img src="../static/img/examplecsv.png" /></center>
 
@@ -30,7 +30,7 @@ Nuestra opción de añadir el CSV está desactivada porque para activarla debemo
 
 <center><img src="../static/img/templateList2.png" width="1000"/></center>
 
-<h3>Definicion de campos:</h3>
+<h3>Definicion de campos</h3>
 
 <h3><a>-Template Name:</a><br/>  Se refiere a escoger la plantilla que se desea enviar</h3>
 
@@ -43,9 +43,9 @@ Nuestra opción de añadir el CSV está desactivada porque para activarla debemo
 <h3>B. Debe contener variables en la plantilla, en el archivo debe haber una columna adicional por cada variable y debe tener como encabezado el mismo nombre de la columna.</h3>
 </ul>
 
-<h3><a>-Vista Previa del mensaje</a><br/> La pagina te mostrará una vista previa del primer mensaje de la lista para que se pueda visualizar como le estará llegando el mensaje al cliente final.</h3>
+<h3><a>-Vista Previa del mensaje:</a><br/> La pagina te mostrará una vista previa del primer mensaje de la lista para que se pueda visualizar como le estará llegando el mensaje al cliente final.</h3>
 
-<h3><a>-Vista del CSV</a><br/>En la pagina se cargarán los registros del archivo sometido para visualizar los registros que se van a procesar.</h3>
+<h3><a>-Vista del CSV:</a><br/>En la pagina se cargarán los registros del archivo sometido para visualizar los registros que se van a procesar.</h3>
 
 <h3>-Una vez ya cuando todo este cargado en el sistema esta es la vista que se puede apreciar con toda la información lista para ser enviada.</h3>
 
