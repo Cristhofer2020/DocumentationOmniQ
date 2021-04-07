@@ -13,7 +13,7 @@ title: Creacion de las Campañas
 <center><img src="../static/img/createCam.png" width="1000"/></center>
 
 <h3>Esta sería nuestra pantalla para la creación de las campañas</h3>
-<h3>En la creación de nuestra campaña solo tenemos la opción de entrar con whatsapp por el momento mas adenlante tendremos mas integraciones</h3>
+<h3>En la creación de nuestra campaña Es importante saber que platafomra usaremos cada plataforma requiere diferentes configuraciones mas adelante le mostraremos como seria las configuraciones</h3>
 
 <center><img src="../static/img/createcampaigs.png" width="1000"/></center>
 
@@ -35,3 +35,9 @@ title: Creacion de las Campañas
 <li>Web</li>
 </h3>
 <br/>
+
+---
+
+ 
+
+

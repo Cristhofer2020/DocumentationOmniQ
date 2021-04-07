@@ -11,4 +11,4 @@ title: Plantillas HSM
 
 <h3>Tras esta pantalla visualizaremos nuestras plantillas creadas donde podremos editarlas y eliminarlas.</h3>
 
-<center><img src="../static/img/template1.png" width="900"/></center>
+<center><img src="../static/img/template1.png" width="1000"/></center>
