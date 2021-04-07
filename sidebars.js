@@ -6,20 +6,30 @@ module.exports = {
       items: [
         'login',
         {
-          User: ['user', 'createUser', 'editUser'],
+          'Administracion de usuarios': ['user', 'createUser', 'editUser'],
         },
         {
-          Bots: ['bots', 'createrobot', 'nodos'],
+          'Manejo de los Bot`s': ['bots', 'createrobot', 'nodos'],
         },
         {
-          Campañas: ['campaigns', 'createcamp', 'editcamp'],
+          'Manejo de las Campañas': ['campaigns', 'createcamp', 'editcamp'],
         },
         {
           Campos: ['fields'],
         },
         {
-          Plantillas: ['templateList', 'templateCreate', 'templateListContact'],
-          Flujo: ['flujoHSM', 'submit','aprove',  'reject', ]
+          'Administracion de las plantillas': ['templateList', 
+          'templateCreate',
+          {
+            'Flujo de las plantillas':[
+              'submit',
+              'reject',
+              'aprove'
+            ]
+          },
+           'templatefields',
+           'templateListContact'
+          ],
         },
 
       ],

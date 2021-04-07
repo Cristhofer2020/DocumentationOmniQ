@@ -13,7 +13,7 @@ Ahora haremos click en el icono aqui un pequeño ejemplo:</h3>
 
 <center><img src="../static/img/userEdit2.png" width="1000"/></center>
 
-<li>Save Changes: Para guardar Nuestos cambios</li>
-<li>Cancel: Destacar los cambios hechos</li>
+<h3><a>Save Changes:</a><br/> Para guardar Nuestos cambios ya agregados</h3>
+<h3><a>Cancel:</a><br/> Destacar los cambios hechos</h3>
 
 ---
