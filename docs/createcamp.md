@@ -27,17 +27,19 @@ title: Creacion de las Campañas
 <h3><a>Elige una Plataforma:</a> Aqui eligiremos nuestra plataforma que nuestro provedor no especifico a usar Por el Momento estos son los provedores que tenemos disponibles: 
 <br/>
 <br/>
-<li>Twitter</li>
-<li>Twilio</li>
-<li>SMS</li>
-<li>Whatsaap</li>
-<li>Facebook</li>
-<li>Web</li>
+<h3><li><a>Facebook</a></li></h3>
+<h3><li><a>Whatsaap</a></li></h3>
+<h3><li><a>Web</a></li></h3>
+<h3><li><a>Twilio</a></li></h3>
+<h3><li><a>SMS</a></li></h3>
+<h3><li><a>Intagram</a></li></h3>
+<h3><li><a>Telegram</a></li></h3>
+
 </h3>
 <br/>
 
----
+:::info
 
- 
+Twitter: Esta siendo mejorada por el momento no esta disponible
 
-
+:::

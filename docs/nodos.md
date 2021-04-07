@@ -4,28 +4,6 @@ title: Definicion de Nodos
 
 ---
 
-<!--
-<h2>Definición de los Nodos</h2>
-
-<h3>Barra de herramientas</h3>
-
-<h3>Ahora vamos a explicarles para que funciona esta parte de la derecha mas adelante estara la parte izquierda</h3>
-
-<center><img src="../static/img/bots4.png" width="900"/></center>
-
-<h3>vamos a definir todos los 4 botones que tenemos disponibles en nuestra barra de herramientas</h3>
-
-<h3><a>Delete:</a>si queremos Utilizar este boton debemos selecionar el nodo o la transicion que queremos eliminar</h3>
-
-<h3>Aqui un ejemplo de como hacerlo</h3>
-
-<center><img src="../static/img/deletebot.gif" width="900"/></center>
-
-<h3><a>Properties:</a>Aqui es para agregar las informaciones req</h3>
-
-
---- -->
-
 <h2>Definicion de Nodos</h2>
 
 <center><img src="../static/img/bot22.png" width="1000"/></center>
@@ -90,8 +68,12 @@ podemos llamar variables que tenemos definidas en los input o en los case aqui l
 <h2><a>Definicion de los Campos</a></h2>
 
 <h3><a>Name:</a><br/> Este sera el nombre a idetificar nuestro input</h3>
-<h3><a>RegExp:</a><br/> Este campo es para agregar multiple opciones ya que para cuando nuestro cliente digite algo relcionado con la opciones implementadas en nuestra expresio regular lo va a redirecionar a ese skill relacion opcion digitada</h3>
+<h3><a>RegExp:</a><br/> Este campo es para agregar multiples opciones ya que para cuando nuestro cliente digite algo relcionado con la opciones implementadas en nuestra expresion regular lo va a redirecionar a ese skill relacionada a la  opcion digitada</h3>
 
 <h3>Aqui podemos ver varias opciones agregadas en nuestra expresion regular</h3>
+
+<center><img src="../static/img/expreReg.png" width="1000" /></center>
+
+<h3>Cuando nuestro cliente esta interectuando con nuestro Bot si el cliente escribe una de estas opciones en el chats se va dirigir a un skill encargado a esas dos areas que serian "Service y Support"</h3>
 
 ---
