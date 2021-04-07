@@ -46,7 +46,7 @@ title: Definicion de Nodos
 
 <h3><a>Por Ejemplo:</a></h3>
 
-<center><img src="../static/img/five9.png" width="1000" height="500"/></center>
+<center><img src="../static/img/five9.png" width="1000" /></center>
 <h2><a>Definicion de los Campos</a></h2>
 <h3><a>Name:</a> <br/>Nuestro Nombre del modulo a identificar</h3>
 <h3><a>Campaign:</a> <br/>Aqui debemos agregar nuestra campaña que tenemos en five9</h3>
@@ -70,7 +70,7 @@ podemos llamar variables que tenemos definidas en los input o en los case aqui l
 <h3><a>Name:</a><br/> Este sera el nombre a idetificar nuestro input</h3>
 <h3><a>RegExp:</a><br/> Este campo es para agregar multiples opciones ya que para cuando nuestro cliente digite algo relcionado con la opciones implementadas en nuestra expresion regular lo va a redirecionar a ese skill relacionada a la  opcion digitada</h3>
 
-<h3>Aqui podemos ver varias opciones agregadas en nuestra expresion regular</h3>
+<h3>Aqui podemos ver dos  opciones agregadas en nuestra expresion regular</h3>
 
 <center><img src="../static/img/expreReg.png" width="1000" /></center>
 
