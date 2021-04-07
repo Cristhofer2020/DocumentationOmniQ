@@ -12,7 +12,17 @@ module.exports = {
           'Manejo de los Bot`s': ['bots', 'createrobot', 'nodos'],
         },
         {
-          'Manejo de las Campañas': ['campaigns', 'createcamp', 'editcamp'],
+          'Manejo de las Campañas': [
+          
+          'campaigns', 
+         
+          'createcamp', 
+          {
+            'Configuracion De plataformas':['facebook', 'whatsaap']
+          },
+      
+          'editcamp'
+        ],
         },
         {
           Campos: ['fields'],

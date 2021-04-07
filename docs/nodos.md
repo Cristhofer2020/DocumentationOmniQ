@@ -28,7 +28,7 @@ title: Definicion de Nodos
 
 <h2>Definicion de Nodos</h2>
 
-<center><img src="../static/img/bot22.png" width="900"/></center>
+<center><img src="../static/img/bot22.png" width="1000"/></center>
 
 <h3><img src="../static/img/skilltransfer.png"/>  <a>-SkillTransfer:</a><br/> Este estado está en proceso de creación y no se utilizará por el momento</h3>
 
@@ -36,7 +36,7 @@ title: Definicion de Nodos
 <br/>
 <br/>
 
-<center><img src="../static/img/botMess.png" width="900"/></center>
+<center><img src="../static/img/botMess.png" width="1000"/></center>
 
 <h3>Aqui estamos visualizando la pantalla del nodo de mensaje donde tenemos dos campos y un selector Vamos a explicar para que sirve</h3>
 
@@ -52,7 +52,7 @@ title: Definicion de Nodos
 
 <h3><a>Por Ejemplo:</a></h3>
 
-<center><img src="../static/img/casos.png" width="900"/></center>
+<center><img src="../static/img/casos.png" width="1000"/></center>
 
 <h2>Definicion de los Campos</h2>
 
@@ -68,7 +68,7 @@ title: Definicion de Nodos
 
 <h3><a>Por Ejemplo:</a></h3>
 
-<center><img src="../static/img/five9.png" width="900" height="500"/></center>
+<center><img src="../static/img/five9.png" width="1000" height="500"/></center>
 <h2><a>Definicion de los Campos</a></h2>
 <h3><a>Name:</a> <br/>Nuestro Nombre del modulo a identificar</h3>
 <h3><a>Campaign:</a> <br/>Aqui debemos agregar nuestra campaña que tenemos en five9</h3>
@@ -76,7 +76,7 @@ title: Definicion de Nodos
 <h3><a>Atributos:</a> Aqui podremos llamar  variables que ya tenemos definidas en nuestro flujo, 
 podemos llamar variables que tenemos definidas en los input o en los case aqui le mostraremos un ejemplo<br/>
 </h3>
-<center><img src="../static/img/examplecase.png" width="900"/></center>
+<center><img src="../static/img/examplecase.png" width="1000"/></center>
 
 <h3>Para llamar las variables debemos añadir una arroba"@" al principio y la siguiente al final por ejemplo: "@case.varible@" aqui lo que hacemos es llamar nuestro nodo y la variable que este dentro de ese nodo</h3>
 
@@ -85,11 +85,13 @@ podemos llamar variables que tenemos definidas en los input o en los case aqui l
 
 <h3><a>Por Ejemplo:</a></h3>
 
-<center><img src="../static/img/input.png" width="900"/></center>
+<center><img src="../static/img/input.png" width="1000"/></center>
 
 <h2><a>Definicion de los Campos</a></h2>
 
-<h3><a>Name:</a><br/> Aqui podemos agregar el nombre a identificar y esta seria la variable de nuestro input</h3>
-<h3><a>RegExp:</a><br/> </h3>
+<h3><a>Name:</a><br/> Este sera el nombre a idetificar nuestro input</h3>
+<h3><a>RegExp:</a><br/> Este campo es para agregar multiple opciones ya que para cuando nuestro cliente digite algo relcionado con la opciones implementadas en nuestra expresio regular lo va a redirecionar a ese skill relacion opcion digitada</h3>
+
+<h3>Aqui podemos ver varias opciones agregadas en nuestra expresion regular</h3>
 
 ---

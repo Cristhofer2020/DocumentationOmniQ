@@ -6,7 +6,7 @@ title: Lista HSM
 
 <h3>Aquí es donde enviaremos las plantillas donde lo principal a tener en cuenta es que si queremos enviar las plantillas que hemos creado, nuestra plantilla debe ser aprobada por un usuario administrativo y entonces podremos enviar nuestra plantilla.</h3>
 
-<h3>En este momento estamos enviando los mensajes mediante un CSV, este fichero debe contener como cabecera las variables que creamos o que hemos vinculado a nuestra plantilla.</h3>
+<h3>En este momento estamos enviando los mensajes mediante un <a to="https://support.microsoft.com/es-es/office/crear-o-editar-archivos-csv-para-importarlos-a-outlook-4518d70d-8fe9-46ad-94fa-1494247193c7">CSV</a> este fichero debe contener como cabecera las variables que creamos o que hemos vinculado a nuestra plantilla.</h3>
 
 <h2>Para añadir nuestro csv debemos seguir los siguientes pasos, ¿por qué?</h2>
 
