@@ -6,7 +6,7 @@ title: Creacion de Plantillas
 
 <h3>En esta parte le explicaremos como crear las plantillas luego de que creemos nuestra plantilla veremos el flujo que tenemos que implementar para usar la plantilla creada.</h3>
 
-<center><img src="../static/img/templatecreate.png" height="300"/></center>
+<center><img src="../static/img/templatecreate.png"/></center>
 
 <h3>Le daremos click a nuestro icono de creacoon de plantilla y nos mostrara la siguiente pantalla</h3>
 
