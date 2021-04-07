@@ -4,12 +4,6 @@ title: Flujo De las plantillas
 
 ---
 
-<h3>Ya que Entendimos todos los campos para que se utilizan veremos el flujo que debemos implementar despues que creamos la plantilla</h3>
-
-<center><img src="../static/img/templateSave.png" width="1000"/></center>
-
-<h3>ahora le daremos click a "SAVE" donde vamos a guardar nuestra plantilla ahora vamos a empezar con nuestro flujo  <center><img src="../static/img/save.png"/></center></h3>
-
 <h3>Ya tenemos nuestra plantilla guardada donde nos deja editar ya que solo la guardamos ahora pasaremos al estado pendiente por que queremos aprobar nuestra plantilla</h3>
 
 <h3>le Daremos Click al boton de editarla plantilla</h3>

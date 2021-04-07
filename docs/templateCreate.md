@@ -31,6 +31,12 @@ title: Creacion de Plantillas
 
 <center><img src="../static/img/previewmess2.png" width="1000"/></center>
 
+<h3>Ya que Entendimos todos los campos para que se utilizan veremos el flujo que debemos implementar despues que creamos la plantilla</h3>
+
+<center><img src="../static/img/templateSave.png" width="1000"/></center>
+
+<h3>ahora le daremos click a "SAVE" donde vamos a guardar nuestra plantilla ahora vamos a empezar con nuestro flujo  <center><img src="../static/img/save.png"/></center></h3>
+
 ---
 
 <h3>Ahora veremos como seria el uso de estos campos en las plantillas</h3>
