@@ -21,7 +21,7 @@ title: Creacion de Plantillas
 ---
 <h3><a>Mensaje:</a><br/> Este es uno de los mas importante ya que este sera el mensaje que enviaremos mediante HSM LIST donde tenemos Un boton en la parte derecha que si hacemos click nos rellenaria nuesto campo de vista previa.</h3>
 <h3><a>Aqui Un Ejemplo:</a></h3>
-<h3>Para poder visualizar nuestro mensaje que ya cremos debemos hacer click aqui</h3><br/><br/>
+<h3>Para poder visualizar nuestro mensaje que ya cremos debemos hacer click aqui</h3><br/>
 
 <center><img src="../static/img/previewmess.png" width="1000"/></center>
 
@@ -59,6 +59,6 @@ title: Creacion de Plantillas
 
 <center><img src="../static/img/templateSave.png" width="1000"/></center>
 
-<h3>ahora le daremos click a "SAVE" donde vamos a guardar nuestra plantilla luego pasamos a ver el flujo de las plantillas<br/>  <center><img src="../static/img/save.png"/></center></h3>
+<h3>ahora le daremos click a "SAVE" donde vamos a guardar nuestra plantilla luego pasamos a ver el flujo de las plantillas<br/>  <img src="../static/img/save.png"/></h3>
 
 ---
