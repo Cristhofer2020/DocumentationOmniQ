@@ -53,6 +53,6 @@ title: Creacion de Plantillas
 
 <center><img src="../static/img/templateSave.png" width="1000"/></center>
 
-<!-- <h3>Ahora le daremos click a "SAVE" donde vamos a guardar nuestra plantilla luego pasamos a ver el flujo de las plantillas<br/>  <img src="../static/img/save.png"/></h3> -->
+<h3>Ahora le daremos click a "SAVE" donde vamos a guardar nuestra plantilla luego pasamos a ver el flujo de las plantillas<br/>  <img src="../static/img/save.png"/></h3>
 
 ---
