@@ -6,7 +6,7 @@ title: Creacion de Usuarios
 
 <h3>Ahora Veremos la parte de creacion de usuarios donde le vamos a explicar y definir cada campo y su uso.</h3>
 
-<h3>para Iniciar la creacion de nuestro usuario debemos darle click a este icono que le vamos a resaltar en la siguiente imagen</h3>
+<h3>Para Iniciar la creacion de nuestro usuario debemos darle click a este icono que le vamos a resaltar en la siguiente imagen</h3>
 
 <center><img src="../static/img/userprinc.png" width="1000"/></center>
 
@@ -16,13 +16,13 @@ title: Creacion de Usuarios
 
 ---
 
-<h3>Ahora veremos la definicion de cada uno los campos</h3>
+<h3>Definicion de los Campos:</h3>
 
 <h3><a>First Name:</a><br/> Este seria el nombre que vamos asignar al usuario para visuaizar en la instacia</h3>
 <h3><a>Last Name:</a><br/> Este campo tiene la misma utilidad que el anterior solo que seria el apellido del usuario</h3>
 <h3><a>Username:</a><br/> Aqui Asinaremos como el usuario se logeara en nuestra instancia</h3>
 <h3><a>Password:</a><br/> Este campo es importante igual que username ya que con estos campos es que nos logearenos en nuestra instancia</h3>
-<h3><a>Email:</a><br/> se utilizara para la comunicacion al usuario mediante su correo</h3>
+<h3><a>Email:</a><br/> Se utilizara para la comunicacion al usuario mediante su correo</h3>
 
 :::info
 

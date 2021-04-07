@@ -4,9 +4,7 @@ title: Definicion de Nodos
 
 ---
 
-<h2>Definición de los Nodos</h2>
 
-<h3>Barra de herramientas</h3>
 
 <h3>Ahora vamos a explicarles para que funciona esta parte de la derecha mas adelante estara la parte izquierda</h3>
 
