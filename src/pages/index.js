@@ -9,8 +9,14 @@ import styles from './styles.module.css';
 const features = [
   {
     description: (
-      <><br />
-     Bienvenido a nuestra Documentación donde te mostraremos cómo funciona nuestra instancia 😀 Saludos 😀.
+      <>
+        <br />
+     Aqui le vamos a Mostrar paso por paso  cómo funciona nuestra instancia 😀 Saludos 😀.
+        <br />
+        <br />
+      Nuestra plataforma está verificada por WhatsApp y Facebook. Una cuenta autentificada aparecerá en el canal de comunicación más utilizado.<br />
+       Libere el poder de la red privada más fiable
+      de la red privada más fiable para ofrecer un comercio y un servicio al cliente convencionales
       </>
     ),
   },
@@ -18,42 +24,40 @@ const features = [
     description: (
       <>
         <br />
-         Red social privada:<br />
+        <a>Red social privada:</a>
+        <br />
+        <br />
         En la actualidad, WhatsApp se considera la app de mensajería C2C más popular del mundo,
-        superando a Messenger con más de 2.000 millones de usuarios..
+        superando a Messenger con más de 2.000 millones de usuarios.
       </>
     ),
   },
-  {
 
-    description: (
-      <><br /><br />
-     Nuestra plataforma está verificada por WhatsApp y Facebook. Una cuenta autentificada aparecerá en el canal de comunicación más utilizado.
-      </>
-    ),
-  },
-  {
-
-    description: (
-      <><br />
-      Libere el poder de la red privada más fiable
-      de la red privada más fiable para ofrecer un comercio y un servicio al cliente convencionales
-
-      </>
-    ),
-  },
   {
     description: (
       <><br />
-      Integración con diferentes canales:<br /><br />
-    WhatsApp,  Facebook Messenger,  Facebook Wall(beta),  Instagram(beta),  Twiter (beta),  App Chat,  SMS,  Website,  BOT’s,  Telegram (beta).
+        <a>Integración con diferentes canales:</a>
+        <br />
+        <br />
+        <li>WhatsApp</li>
+        <li>Facebook Messenger</li>
+        <li>Facebook Wall (beta)</li>
+        <li>Instagram (beta)</li>
+        <li>Twiter (beta)</li>
+        <li>App Chat</li>
+        <li>SMS</li>
+        <li>Website</li>
+        <li>BOT’s,</li>
+        <li>Telegram (beta)</li>
       </>
     ),
   },
   {
     description: (
       <><br />
-        Arquitectura de flujo de mensajes:<br />
+        <a>Arquitectura de flujo de mensajes:</a>
+        <br />
+        <br />
         En la plataforma OmniQ se configuran los diferentes canales,
         se define el bot con el flujo de mensajes y la interación del cliente con la plataforma y
         finalmente se transfieren a la plataforma five9 para ser atendidos por un agente.
@@ -66,7 +70,7 @@ const features = [
 function Feature({ imageUrl, title, description }) {
   const imgUrl = useBaseUrl(imageUrl);
   return (
-    <div className={clsx('col col--4', styles.feature)}>
+    <div className={clsx('col col--6', styles.feature)}>
       {imgUrl && (
         <div className="text--center">
           <img className={styles.featureImage} src={imgUrl} alt={title} />
