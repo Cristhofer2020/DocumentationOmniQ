@@ -8,7 +8,6 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Bienvenido a nuestra documentación',
     description: (
       <><br />
      Bienvenido a nuestra Documentación donde te mostraremos cómo funciona nuestra instancia 😀 Saludos 😀.
@@ -87,13 +86,11 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
+          <h1 className="">Bienvenidos a Nuestra Documentación</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
           <div className={styles.buttons}>
             <Link
-              className={clsx(
-                'button button--outline button--secondary button--lg',
-                styles.getStarted,
-              )}
+              className={styles.btn}
               to={useBaseUrl('docs/')}>
               Documentation
             </Link>

@@ -11,6 +11,20 @@
   }
 }
 
+
+.btn {
+  font-size: 1.2rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-radius: 30px;
+  padding: 0.5rem 4rem;
+
+  box-shadow: 3px 5px 20px rgba(0, 0, 0, 0.3);
+  background-color: white;
+  color: #242526;
+  border: none;
+}
+
+
 .buttons {
   display: flex;
   align-items: center;
@@ -31,4 +45,9 @@
   padding-left: 500px;
   height: 310px;
   width: 800px;
+}
+
+h1{
+  color: white;
+  text-align: center;
 }

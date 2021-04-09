@@ -3,42 +3,52 @@ module.exports = {
     {
       type: 'category',
       label: 'OmniQ Manager',
+      collapsed: false,
       items: [
-        'login',
+        'Acceso/login',
         {
-          'Usuarios': ['user', 'createUser', 'editUser'],
+          'Usuarios': [
+            'Usuarios/user',
+            'Usuarios/createUser',
+            'Usuarios/editUser'
+          ],
         },
         {
-          'Bot`s': ['bots', 'createrobot', 'nodos'],
+          'Bot`s': [
+            'Bot`s/Viewbots',
+            'Bot`s/createrobot',
+            'Bot`s/nodos'
+          ],
         },
         {
           'Campañas': [
-
-            'campaigns',
-
-            'createcamp',
+            'Campaigns/Viewcampaigns',
+            'Campaigns/createcamp',
             {
-              'Configuracion De Plataformas': ['facebook', 'whatsaap']
+              'Configuracion De Plataformas': [
+                'ConfigCamp/facebook',
+                'ConfigCamp/whatsaap'
+              ]
             },
 
-            'editcamp'
+            'Campaigns/editcamp'
           ],
         },
         {
           Campos: ['fields'],
         },
         {
-          'Plantillas': ['templateList',
-            'templateCreate',
-            'templatefields',
+          'Plantillas': ['Plantillas/templateList',
+            'Plantillas/templateCreate',
+            'Plantillas/templatefields',
             {
               'Flujo de las Plantillas': [
-                'submit',
-                'reject',
-                'aprove'
+                'Flujo/Submitted',
+                'Flujo/Rejects',
+                'Flujo/approved'
               ]
             },
-            'templateListContact'
+            'Plantillas/templateListContact'
           ],
         },
 

@@ -1,6 +1,6 @@
 :root {
   --ifm-color-primary: #7CBB00;
-  --ifm-color-primary-dark: rgb(33, 175, 144);
+  --ifm-color-primary-dark: ;
   --ifm-color-primary-darker: rgb(31, 165, 136);
   --ifm-color-primary-darkest: rgb(26, 136, 112);
   --ifm-color-primary-light: rgb(70, 203, 174);
@@ -17,7 +17,10 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
-
+.test {
+  background-position: left;
+  background-image: url(../../static/img/bgmain.jpg);
+}
 
 h3,h2{
   font-weight: inherit;
@@ -28,12 +31,7 @@ ul{
   font-size: 16px;
 }
 
-
-
 li{
   font-size: 18px;
 }
 
-hr{
-  color: #7CBB00;
-}

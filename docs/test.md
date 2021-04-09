@@ -4,11 +4,9 @@ title: Definicion de Nodos
 
 ---
 
-
-
 <h3>Ahora vamos a explicarles para que funciona esta parte de la derecha mas adelante estara la parte izquierda</h3>
 
-<center><img src="../static/img/bots4.png" width="1000"/></center>
+<center><img src="../../static/img/bots4.png" width="1000"/></center>
 
 <h3>vamos a definir todos los 4 botones que tenemos disponibles en nuestra barra de herramientas</h3>
 
